@@ -6,7 +6,6 @@ This is a backend microservice for simulating simple core banking transactions, 
 
 - Java 17
 - Spring Boot
-- H2 (in-memory DB)
 - Maven
 - Docker & Docker Compose
 
